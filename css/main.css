@@ -116,7 +116,9 @@ blockquote {
   float: left;
   width: 300px;
   padding: 6px;
-  border-top: 3px solid #f2f2f2;
-  border-bottom: 3px solid #f2f2f2;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+  color: #666;
+  font-size: 1.5rem;
 
 }
