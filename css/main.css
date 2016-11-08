@@ -98,14 +98,25 @@ footer {
   padding: .4em .2em;
 }
 
-img {
+figure {
   float: right;
   width: 300px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding: 6px 0;
+  overflow: hidden;
 }
 
-.wrapper > figcaption {
+figcaption {
+  font-style: italic;
+  font-size: .785em;
+}
+
+blockquote {
+  float: left;
+  width: 300px;
+  padding: 6px;
+  border-top: 3px solid #f2f2f2;
+  border-bottom: 3px solid #f2f2f2;
 
 }
