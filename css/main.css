@@ -87,7 +87,7 @@ footer {
 */
 
 /* Write your CSS here */
-.wrapper > p:first-child::first-letter  {
+.wrapper > p:first-child::first-letter {
   float: left;
   width: 100%;
   background-color: #666;
@@ -104,4 +104,8 @@ img {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding: 6px 0;
+}
+
+.wrapper > figcaption {
+
 }
