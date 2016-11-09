@@ -96,7 +96,8 @@ main > p:first-child::first-letter {
   color: #fff;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: .5em .3em;
+  padding: .7em .2em;
+  margin: 7px;
   font-style: normal;
 }
 
@@ -107,7 +108,7 @@ figure {
   border-bottom: 3px solid #333;
   padding: 6px 0;
   overflow: hidden;
-  margin-right: -100px;
+  margin-right: -150px;
   margin-top: 7px;
 }
 
