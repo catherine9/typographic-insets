@@ -96,7 +96,7 @@ main > p:first-child::first-letter {
   color: #fff;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: .7em .2em;
+  padding: .5em .2em;
   margin: 7px;
   font-style: normal;
 }
@@ -106,7 +106,7 @@ figure {
   width: 300px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: 6px 0;
+  padding: .4em .2em;
   overflow: hidden;
   margin-right: -150px;
   margin-top: 7px;
@@ -126,9 +126,9 @@ blockquote {
   color: #666;
   font-size: 1.5rem;
   overflow: hidden;
-  margin-left: -90px;
-  margin-top: 20px;
+  margin: 0 20px 0 -140px;
   border-left: none;
   border-right: none;
   text-align: right;
+  line-height: 1.2;
 }
