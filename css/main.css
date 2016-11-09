@@ -87,6 +87,7 @@ footer {
 */
 
 /* Write your CSS here */
+
 main > p:first-child::first-letter {
   float: left;
   width: 100%;
@@ -95,7 +96,7 @@ main > p:first-child::first-letter {
   color: #fff;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: .5em .3em;;
+  padding: .5em .3em;
   font-style: normal;
 }
 
@@ -118,7 +119,7 @@ figcaption {
 blockquote {
   float: left;
   width: 300px;
-  padding: 0 6px 0 6px;
+  padding: 0 6px;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   color: #666;
@@ -128,4 +129,5 @@ blockquote {
   margin-top: 20px;
   border-left: none;
   border-right: none;
+  text-align: right;
 }
